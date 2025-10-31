@@ -1,0 +1,3 @@
+/home/castillo/Parcial-Corte2/dispositivos/build/CMakeFiles/app.dir
+/home/castillo/Parcial-Corte2/dispositivos/build/CMakeFiles/edit_cache.dir
+/home/castillo/Parcial-Corte2/dispositivos/build/CMakeFiles/rebuild_cache.dir
